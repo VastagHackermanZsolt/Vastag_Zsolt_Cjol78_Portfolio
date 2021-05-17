@@ -1,0 +1,112 @@
+
+
+body
+{
+    position: relative;
+    background-color: rgba(10,10,20,1);
+}
+
+.Hatterkepdiv
+{
+	width: 100%;
+	height: 150vw;
+	z-index: -1;
+    position: absolute;
+    background-image: url(https://i.pinimg.com/564x/65/57/4d/65574d62ffb0cd14e4cd67cdaf55d9af.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.Hatterkep 
+{
+	height: 150vw;
+	background: linear-gradient(rgba(0,0,0,0),rgba(10,10,20,1));
+}
+.Kontent
+{
+   margin-top: 25vh;
+   background-color: rgba(100,100, 100, .8);
+}
+
+.Kep
+{
+	background-image: url(https://i.pinimg.com/564x/fa/31/dd/fa31dd4e31598995ac590eeb892c4dd2.jpg);
+}
+
+
+.Bevszoveg
+{
+   color: white;
+}
+
+.Cim_machinist
+{
+    font-size: 30px;
+    margin-top: 80px;
+    text-align: center;
+    color: white;
+}
+.Kep_machinist_div
+{
+	margin-top: 10px;
+	display: flex;
+	justify-content: center;
+}
+
+.Kep_machinist
+{
+	border: 2px solid #e3a024;
+    width: 40%;
+}
+
+.Kritika_machinist
+{
+	
+	margin-top: 50px;
+	margin-left: 10vw;
+	margin-right: 10vw;
+	border-left: 5px solid #e3a024;
+	padding-left: 20px;
+}
+
+.Cim_nosferatu
+{
+    font-size: 30px;
+    margin-top: 80px;
+    text-align: center;
+    color: white;
+}
+
+.Cim_nosferatu
+{
+    font-size: 30px;
+    margin-top: 80px;
+    text-align: center;
+}
+.Kep_nosferatu_div
+{
+	margin-top: 10px;
+  	display: flex;
+	justify-content: center;
+}
+
+.Kep_nosferatu
+{
+    border: 2px solid #e3a024;
+    width: 90%;
+
+}
+
+.Kritika_nosferatu
+{
+	margin-top: 50px;
+	margin-left: 10vw;
+	margin-right: 10vw;
+	border-left: 5px solid #e3a024;
+	padding-left: 20px;
+}
+
+.Kontent p
+{
+	color: white;
+}
